@@ -11,12 +11,12 @@ PlantAI เป็นโปรเจกต์จำแนกประเภทข
 - Matplotlib
 - PIL
 
-โครงสร้าง
+โครงสร้าง <br>
 ![Image Alt](https://github.com/th0mas000/AI-Plant/blob/75055e18d3f1a3c4cb8f805e14af1e2beca9cfa5/path_example1.png)
 
 หากจะต้องการเปลี่ยน model ที่จะ train เป็นอย่างอื่น ก็จัดการ folder ใน training ได้เลย
 
-ตัวอย่างจำแนกประเภท ขวดแก้ว - ขวดพาสติก - กระป๋อง
+ตัวอย่างจำแนกประเภท ขวดแก้ว - ขวดพาสติก - กระป๋อง<br>
 ![Image Alt](https://github.com/th0mas000/AI-Plant/blob/75055e18d3f1a3c4cb8f805e14af1e2beca9cfa5/path_example2.png)
 
 
